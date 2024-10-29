@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Devasy23.png" width="100px">
+  <img src="https://github.com/kanhaiyak23.png" width="100px">
   <br>
   <samp>
     👋 Hi! I craft code and build dreams.
