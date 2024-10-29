@@ -62,9 +62,7 @@
 </picture>
 
 
-## Implementation
 
-[solver algorithm](./packages/solver/README.md)
 
 
 ## 📫 Connect with Me
