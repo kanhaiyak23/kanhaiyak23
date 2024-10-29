@@ -1,6 +1,7 @@
 # Welcome to My Coding Universe! 🚀
 
-![typing...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3666&pause=2333&color=1677FF&repeat=true&random=false&height=21&lines=I+am+kanhaiya kumar,+a+Passionate+Developer,+a+Full+stack+developer.)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3666&pause=2333&color=1677FF&repeat=true&height=21&lines=I+am+Kanhaiya+Kumar,+a+Passionate+Developer)
+
 
 <p align="center">
   <img src="https://github.com/Devasy23.png" width="100px">
