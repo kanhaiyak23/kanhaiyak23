@@ -1,13 +1,13 @@
 # Welcome to My Coding Universe! 🚀
 
-![typing...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3666&pause=2333&color=1677FF&repeat=true&random=false&height=21&lines=I+am+kanhaiya,+a+Passionate+Developer.)
+![typing...](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3666&pause=2333&color=1677FF&repeat=true&random=false&height=21&lines=I+am+kanhaiya kumar,+a+Passionate+Developer,+a+Full+stack+developer.)
 
 <p align="center">
   <img src="https://github.com/Devasy23.png" width="100px">
   <br>
   <samp>
     👋 Hi! I craft code and build dreams.
-    <br>Check out my <a href="https://devasypatel.netlify.app">portfolio</a> for more!
+    <br>Check out my <a href="https://kanhaiyak23.github.io/Portfolio/">portfolio</a> for more!
   </samp>
 </p>
 
